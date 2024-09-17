@@ -54,3 +54,19 @@ Join thousands of developers building full-stack apps with Convex:
 
 - Join the [Convex Discord community](https://convex.dev/community) to get help in real-time.
 - Follow [Convex on GitHub](https://github.com/get-convex/), star and contribute to the open-source implementation of Convex.
+
+
+## Contributors
+
+- **Hannan Chougle**  
+  [GitHub](https://github.com/Hannan2004)
+
+- **Manit Khira**  
+  [GitHub](https://github.com/Manitkhira)
+
+- **Himanshu Menghrajani**  
+  [GitHub](https://github.com/Himanshu2004-prog)
+
+- **Azfar Shaikh**  
+  [GitHub](https://github.com/Azfarsh)
+
